@@ -6,7 +6,7 @@ import { SearchImage } from "./Images";
 function WeatherApp() {
     const [weather, setWeather] = useState('');
     const [city, setCity] = useState('');
-    const apiKey = "c3a5041c50834a993cbf4d3e2c4f347d";
+    const apiKey = "";
 
 
     const apiCall = async (e) => {
