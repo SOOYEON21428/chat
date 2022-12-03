@@ -61,16 +61,22 @@ yarn dev
 
 ## 구현결과
 
+### 채팅방 입장
+![chat-1 입장](https://user-images.githubusercontent.com/102462534/205439085-21ad590f-5352-419e-8720-19df2ed37bd1.gif)
+<br/>
 
-채팅방입장            |  이용자 입장시간 확인
-:-------------------------:|:-------------------------:
-![chat-1 입장](https://user-images.githubusercontent.com/102462534/205439085-21ad590f-5352-419e-8720-19df2ed37bd1.gif)  | ![chat-1 입장시간](https://user-images.githubusercontent.com/102462534/205439257-6ee331c1-2c93-49d9-bb20-5a6ca861c408.gif)
+### 채팅방 입장시간 확인
+![chat-1 입장시간](https://user-images.githubusercontent.com/102462534/205439257-6ee331c1-2c93-49d9-bb20-5a6ca861c408.gif)
+<br/>
+
+### 닉네임 변경
+![chat-1 닉네임변경](https://user-images.githubusercontent.com/102462534/205439105-3fc83530-16f2-4093-9ec2-405e8bc92cf6.gif)
 
 <br/>
 
-닉네임 변경        |  날씨확인(보너스..기능)
-:-------------------------:|:-------------------------:
-![chat-1 닉네임변경](https://user-images.githubusercontent.com/102462534/205439105-3fc83530-16f2-4093-9ec2-405e8bc92cf6.gif)  | ![chat1-날씨](https://user-images.githubusercontent.com/102462534/205439258-8d66ade7-3f77-4b7c-a094-5384ad9fe28e.gif)
+### 날씨확인 (부연기능)
+![chat1-날씨](https://user-images.githubusercontent.com/102462534/205439258-8d66ade7-3f77-4b7c-a094-5384ad9fe28e.gif)
+
 
 
 <br/>
