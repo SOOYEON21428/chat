@@ -27,15 +27,6 @@
 
 #### 1.1. 프로젝트 다운로드 및 초기화
 
-```bash
-git clone "https://github.com/Malgn-OJT/chatchat"
-cd chatchat
-yarn
-yarn dev
-# ready - started server on 0.0.0.0:3000, url: http://localhost:3000
-#웹사이트 실행
-```
-
 ### 1.2. 패키지 커맨드
 
 각 커맨드의 자세한 사항은 `package.json` 파일을 참조한다. next 자체의 커맨드는 `npx next -h`를 참조하거나 [공식 가이드](https://nextjs.org/docs/api-reference/cli)를 참조한다.
