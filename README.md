@@ -74,16 +74,25 @@
 <br/>
 
 ### 나와 상대방 화면
+
+#### chat 입장
+
 ![chat 입장](https://user-images.githubusercontent.com/102462534/205440386-065f7cfa-e848-41f2-adbc-bae0a6ed9f61.gif)
 <br/>
-
-![chat 입장시간확인](https://user-images.githubusercontent.com/102462534/205440389-3fd746aa-8de8-44b0-9942-2b98399d3ba8.gif)
+<br/>
 <br/>
 
+#### chat 입장 시간 확인
+![chat 입장시간확인](https://user-images.githubusercontent.com/102462534/205440389-3fd746aa-8de8-44b0-9942-2b98399d3ba8.gif)
+<br/>
+<br/>
+<br/>
+
+#### 닉네임 변경
 ![chat 닉네임 변경](https://user-images.githubusercontent.com/102462534/205440391-5ad48850-5b73-45d7-848a-22881edbfe3e.gif)
 
-
-
+<br/>
+<br/>
 <br/>
 
 
